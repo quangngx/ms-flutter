@@ -1,0 +1,4 @@
+{
+  "apiUrl": "http://localhost:3001",
+  "apiEndPoint": "wp-json/ms_lms/v2"
+}
